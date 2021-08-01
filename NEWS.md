@@ -1,3 +1,7 @@
+# widgetframe 0.3.2
+
+* Upgraded Pym.js (per [this issue](https://github.com/bhaskarvk/widgetframe/issues/12) and [this PR by hrbrmstr](https://github.com/bhaskarvk/widgetframe/pull/13)) to solve [a security vulnerability](https://blog.apps.npr.org/2018/02/15/pym-security-vulnerability.html).
+
 # widgetframe 0.3.1
 
 ## Improvements
